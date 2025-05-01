@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9863328924",
+    "project_id": "windowsss-bba08",
+    "storage_bucket": "windowsss-bba08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9863328924:android:0700237769fe1463936959",
+        "android_client_info": {
+          "package_name": "com.example.windowsss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0WMObJNx6G-XQT19f2cVJ8Kwu1TWS4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
